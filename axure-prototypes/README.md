@@ -1,5 +1,4 @@
 # axure-prototypes
-==================
 
 Here contains a series of prototypes made with axure with an equivalent html folder.
 
