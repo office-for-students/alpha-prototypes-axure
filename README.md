@@ -15,4 +15,8 @@ Contains the mock up designs for each iteration, ready for making prototypes for
 #### [Prototypes](/axure-prototypes)
 Contains the final prototypes for userability labs.
 
-Further prototypes which were not made in auxure are located [here](https://github.com/office-for-students/ofs-alpha-prototypes). 
+Further prototypes which were not made in auxure are located [here](https://github.com/office-for-students/ofs-alpha-prototypes).
+
+### Licensing
+
+Please see the [license file](/LICENSE) 
